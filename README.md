@@ -21,11 +21,6 @@ python3 -m venv .venv
 
 Then open <http://localhost:8501>.
 
-## Test the game logic
+## Try it - <https://play-tic-tac-toe.streamlit.app/>
 
-```bash
-cd tic-tac-toe
-python3 -m unittest -v
-```
 
-The UI lives in `app.py`; the reusable rules and minimax bot live in `game.py`.
